@@ -1,0 +1,168 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.hero{
+text-align: center;
+background-image: url(/img/newimage111.jpg);
+background-repeat: no-repeat;
+height:600px;
+}
+
+.teamhero{  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-weight: 700;
+    font-size: 2em;
+    height:400px;
+    width: auto;
+    color: goldenrod;
+}
+
+.cardgroup{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    text-decoration: none;
+    background-image: url(/img/HD-wallpaper-plain-dark-blue-dark-blue.jpg);
+    /* background-repeat: no-repeat; */
+
+}
+.cardgroups{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    text-decoration: none;
+
+}
+.cardgroupss{
+    display: flex;
+    padding-top: 50px ;
+    padding-bottom: 50px ;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    background-color: #EDE0AB;
+    margin-top: -40px;
+
+}
+.btngroup{
+    padding: 20px;
+    font-size: 1.2em;
+    text-align: center;
+    align-content: space-around;
+    justify-content: space-between;   
+    margin-top: 250px;
+    font-family: ui-sans-serif;
+    font-weight: 610;
+    border-radius:100px;
+    border-style:outset;
+    background-color: goldenrod;
+}
+.teamgroup{
+    padding: 15px;
+    font-size: 1em;
+    text-align: center;
+    align-content: space-around;
+    justify-content: space-between;   
+    margin-top: 40px;
+    font-family: ui-sans-serif;
+    font-weight: 610;
+    border-radius:100px;
+    background-color: goldenrod;
+}
+.cardgroup{
+    padding-top: 60px;
+    /* border-style: groove; */
+    padding-bottom: 40px;
+}
+.Recentgroup{
+    margin-top: -90px;
+    padding-top: 120px; 
+    /* border-style: groove;  */
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    background-image: url(/img/HD-wallpaper-plain-dark-blue-dark-blue.jpg);
+    padding-bottom: 70px;
+}
+   
+.Recentsdivcards{
+    width: 400px;
+    border-style: double;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: goldenrod;
+}
+.Recentscardbody{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+}
+.divcards{
+    height: 200px;
+    width: 200px;
+    border-style: double;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #096f7c;
+    border-radius: 30px;
+    
+}
+.cardbody{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 900;
+    text-align: center;
+    
+
+}
+.getintouch{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 800;
+    text-align: center;
+    padding: 20px;
+    color: azure;
+
+}
+.ourteam{
+    background-color: #096f7c;
+    margin-top: -20px;
+    height: 60px;
+    text-align: justify;
+    padding-top: 20px;
+}
+.divcardsteam{
+    height: 350px;
+    width: 280px;
+    border-style: double;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #E9D99B;
+    border-radius: 30px;
+
+}
+.imgmemo{
+    height: 120px;
+    width: 120px;
+}
+
+.getintouch{
+    background-color: #096f7c;
+    margin-top: -20px;
+    height: 60px;
+    text-align: justify;
+    padding-top: 20px;
+    color: black;
+}
+.getin{
+    display: flex;
+    justify-content: center;
+    background-image: url(/img/HD-wallpaper-plain-dark-blue-dark-blue.jpg);
+    margin-top: -30px;
+}
